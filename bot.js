@@ -17,7 +17,7 @@ client.on('presenceUpdate', (oldPresence, newPresence) => {
       const channel = client.channels.cache.get('349096556818857995');
 
       // Send the message
-      channel.send(`<@&1019364021746552883> is now online!`);
+      channel.send(`https://tenor.com/view/stormwavz-omniversal-discord-gif-22696440`);
     }
   }
 });
